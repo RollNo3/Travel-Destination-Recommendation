@@ -4,7 +4,7 @@ The project aims to suggest the best destination places across the world based o
 which includes permanent migration , business establishment and exotic tourism.
 
 
-1. File list
+I. File list
 ------------
 main.py                       main file to be executed(*)
 show.py                       GUI for showing results
@@ -14,13 +14,13 @@ countries.csv
 Tourism.csv
 
 
-2. Tools
+II. Tools
 ---------
 Programming Language            Python
 Library                         Experta
 GUI package                     Tkinter
 
-3. Installation and Launching
+III. Installation and Launching
 -------------------------------
 
 1. For Ubuntu/Linux
