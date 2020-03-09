@@ -6,19 +6,19 @@ which includes permanent migration , business establishment and exotic tourism.
 
 I. File list
 ------------
-1. main.py                       main file to be executed(*)
-2. show.py                       GUI for showing results
-3. value_interpretor.py          interprets the value
-4. csv_reader.py                 reads csv files
-5. countries.csv                 dataset
-6. Tourism.csv                   dataset
+1. main.py-->                       main file to be executed(*)
+2. show.py-->                       GUI for showing results
+3. value_interpretor.py-->          interprets the value
+4. csv_reader.py-->                 reads csv files
+5. countries.csv-->                 dataset
+6. Tourism.csv-->                   dataset
 
 
 II. Tools
 ---------
-1. Programming Language            Python
-2. Library                         Experta
-3. GUI package                     Tkinter
+1. Programming Language-->            Python
+2. Library-->                         Experta
+3. GUI package-->                     Tkinter
 
 III. Installation and Launching
 -------------------------------
