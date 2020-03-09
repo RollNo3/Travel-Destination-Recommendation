@@ -6,10 +6,10 @@ which includes permanent migration , business establishment and exotic tourism.
 
 I. File list
 ------------
-main.py                       main file to be executed(*)
-show.py                       GUI for showing results
-value_interpretor.py          interprets the value
-csv_reader.py                 reads csv files
+main.py->                       main file to be executed(*)
+show.py->                       GUI for showing results
+value_interpretor.py->          interprets the value
+csv_reader.py->                 reads csv files
 countries.csv
 Tourism.csv
 
